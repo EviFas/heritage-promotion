@@ -6,7 +6,7 @@ categories: jekyll
 ---
 
 **_Καλωσήρθατε!_** στο Jekyll
-Αυτό είναι ένα δοκιμαστικό post για το μάθημα 
+Αυτό είναι ένα δοκιμαστικό post για το μάθημα Εργαλεία Προβολής Τουριστικού και Πολιτιστικού Προϊόντος.
 
 
 [md-cheat]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
