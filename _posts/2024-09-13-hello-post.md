@@ -6,8 +6,8 @@ categories: jekyll
 ---
 
 Αυτό είναι ένα hello post στο Jekyll. 
-*_Καλωσήρθατε!
-Για να δημιουργήσετε νέα posts απλά δημιουργήστε νέα αντίστοιχα αρχεία (με ανάλογο filename και ανάλογη πληροφορία στο front matter/header του αρχείου) στο φάκελο `_posts`.  
+*Καλωσήρθατε!
+  
 Δείτε περισσότερα για το πώς μπορείτε να μορφοποιήσετε το περιεχόμενο πιο κάτω και στις σελίδες:
 * [Markdown cheatsheet][md-cheat]
 * [Markdown official guide][md-guide]
