@@ -5,13 +5,9 @@ date:   2024-09-13 03:01:00 +0000
 categories: jekyll
 ---
 
-Αυτό είναι ένα hello post στο Jekyll. 
-**_Καλωσήρθατε!_**
-  
-Δείτε περισσότερα για το πώς μπορείτε να μορφοποιήσετε το περιεχόμενο πιο κάτω και στις σελίδες:
-* [Markdown cheatsheet][md-cheat]
-* [Markdown official guide][md-guide]
-* [Markdown online editor][md-editor]
+**_Καλωσήρθατε!_** στο Jekyll
+Αυτό είναι ένα δοκιμαστικό post για το μάθημα 
+
 
 [md-cheat]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [md-guide]: https://www.markdownguide.org
