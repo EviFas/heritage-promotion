@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: atlas
 title:  "Hello post"
 date:   2024-09-13 03:01:00 +0000
 categories: jekyll
